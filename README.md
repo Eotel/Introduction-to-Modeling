@@ -25,3 +25,8 @@ NITIC 専攻科 1年 [モデリング概論R02](http://edu.ichinoseki.ac.jp/mood
 # 環境構築
 
 - [開発環境構築用github URL](http://edu.ichinoseki.ac.jp/moodle2014/mod/url/view.php?id=79746
+
+# Tips
+
+- [Free Student License for Astah UML](https://astah.net/products/free-student-license/)
+- comming soon ...
