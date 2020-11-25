@@ -4,10 +4,10 @@ NITIC 専攻科 1年 モデリング概論のプロジェクト
 # ファイル構成  
 ```
 .
-├── README.md		<- このファイル
+├── README.md         <- このファイル
 ├── sample05
-│   ├── Sample05.png	<- クラス図
+│   ├── Sample05.png  <- クラス図
 │   ├── Tracer.cpp
 │   └── Tracer.h
-└── sample05.zip
+└── sample05.zip      <- 課題提出用
 ```
