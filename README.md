@@ -6,12 +6,15 @@ NITIC 専攻科 1年 [モデリング概論R02](http://edu.ichinoseki.ac.jp/mood
 
 ```
 .
-├── README.md         <- このファイル
+├── README.md
+├── saizenretsu.zip
 ├── sample05
-│   ├── Sample05.png  <- クラス図
+│   ├── Sample05.png
 │   ├── Tracer.cpp
 │   └── Tracer.h
-└── sample05.zip      <- 課題提出用
+└── sample05.zip
+
+1 directory, 6 files
 ```
 
 # 課題リスト  
